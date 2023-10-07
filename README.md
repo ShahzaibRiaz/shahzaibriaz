@@ -24,10 +24,6 @@ I'm always eager to learn and explore new technologies and frameworks to enhance
 
 - Cloud Computing
 
-## 📈 GitHub Stats
-
-![Shahzaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## 📫 Let's Connect
 
 - LinkedIn: [Shahzaib Riaz - LinkedIn](https://www.linkedin.com/in/shahzaib-riaz-a0172a135/)
